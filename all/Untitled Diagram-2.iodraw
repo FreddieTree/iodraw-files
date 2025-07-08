@@ -71,13 +71,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkupKo9TkGpXb2A3lhPY-12" value="Ørsted" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="40" y="270" width="70" height="40" as="geometry" />
+          <mxGeometry x="40" y="260" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gkupKo9TkGpXb2A3lhPY-13" value="BP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gkupKo9TkGpXb2A3lhPY-14" value="Shell" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkupKo9TkGpXb2A3lhPY-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
