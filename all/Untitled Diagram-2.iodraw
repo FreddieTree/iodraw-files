@@ -124,8 +124,11 @@
         <mxCell id="gkupKo9TkGpXb2A3lhPY-25" value="👑&lt;div&gt;&lt;div&gt;&lt;b&gt;Bernald Looney&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CEO&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gkupKo9TkGpXb2A3lhPY-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="gkupKo9TkGpXb2A3lhPY-27" value="2019" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="598" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkupKo9TkGpXb2A3lhPY-28" value="👑&lt;div&gt;&lt;div&gt;&lt;b&gt;Bernald Looney&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CEO&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
