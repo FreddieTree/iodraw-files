@@ -70,6 +70,9 @@
             <mxPoint x="1320" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gkupKo9TkGpXb2A3lhPY-12" value="Ørsted" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
