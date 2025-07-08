@@ -213,6 +213,9 @@
         <mxCell id="gkupKo9TkGpXb2A3lhPY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gkupKo9TkGpXb2A3lhPY-25" target="gkupKo9TkGpXb2A3lhPY-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gkupKo9TkGpXb2A3lhPY-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkupKo9TkGpXb2A3lhPY-53" target="gkupKo9TkGpXb2A3lhPY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gkupKo9TkGpXb2A3lhPY-53" value="CSO appointed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="100" height="40" as="geometry" />
         </mxCell>
