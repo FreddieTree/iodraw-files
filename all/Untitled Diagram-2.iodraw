@@ -230,7 +230,7 @@
         <mxCell id="gkupKo9TkGpXb2A3lhPY-58" value="ESG United merged" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1160" y="380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gkupKo9TkGpXb2A3lhPY-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gkupKo9TkGpXb2A3lhPY-59" target="gkupKo9TkGpXb2A3lhPY-28">
+        <mxCell id="gkupKo9TkGpXb2A3lhPY-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="gkupKo9TkGpXb2A3lhPY-59" target="gkupKo9TkGpXb2A3lhPY-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gkupKo9TkGpXb2A3lhPY-59" value="CSO abolished" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
