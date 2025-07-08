@@ -148,6 +148,11 @@
             <mxPoint x="1080" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gkupKo9TkGpXb2A3lhPY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkupKo9TkGpXb2A3lhPY-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="415.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gkupKo9TkGpXb2A3lhPY-28" value="👑&lt;div&gt;&lt;div&gt;&lt;b&gt;Emma Auchincloss&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CEO&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1020" y="385" width="120" height="60" as="geometry" />
         </mxCell>
